@@ -12,4 +12,4 @@ This project is an online career guidance platform built with Flask and Bootstra
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/career-guidance-platform.git
+   git clone https://github.com/Pranay01245/career-guidance-platform.git
