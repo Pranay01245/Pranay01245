@@ -6,7 +6,7 @@ This project is an online career guidance platform built with Flask and Bootstra
 - Provides personalized career advice based on user input.
 
 ## Technologies Used
-- HTML5, CSS3, and Bootstrap for frontend design
+- HTML, CSS, and Bootstrap for frontend design
 - Python and Flask for backend logic
 
 ## Installation
